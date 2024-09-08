@@ -1,5 +1,6 @@
 # First Time Setup
-
+## Learning project
+This project is a learning project from [Udemy](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/)
 ## Using Pipenv [Recommended]
 
 ```
